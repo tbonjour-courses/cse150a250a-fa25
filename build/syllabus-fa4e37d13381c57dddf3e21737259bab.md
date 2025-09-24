@@ -168,7 +168,16 @@ Please note, there is no grace period for project submissions. We will not accep
 
 ### Participation
 
-This quarter, for getting instant feedback and measuring participation we will use in-class questions (using {ref}`Webclicker`) and surveys. These are graded for completion not correctness. Think of this as a chance to engage in class and review your learning.
+### Participation
+
+This quarter, for getting instant feedback and measuring participation we will use in-class questions (using {ref}`Webclicker`) and surveys. These are graded for completion not correctness.
+
+**In-class questions:** Answer at least 50% of the questions asked throughout the quarter to earn full points for this component.
+
+**Surveys:** Complete required course surveys when assigned.
+
+Think of this as a chance to engage in class and review your learning.
+
 
 ### Tests
 
