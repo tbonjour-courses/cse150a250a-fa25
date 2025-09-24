@@ -113,7 +113,7 @@ For in class questions, we’re going to use [webclicker.web.app](https://webcli
 The course registration code is `KSALDG`. 
 
 <!-- :::{caution} -->
-Please make sure to accurately input your `PID` in `Student Identifier`, so you can get participation credit.
+<!-- Please make sure to accurately input your `PID` in `Student Identifier`, so you can get participation credit. -->
 <!-- ::: -->
 
 ### Canvas
