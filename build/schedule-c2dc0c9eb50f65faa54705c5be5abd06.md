@@ -360,7 +360,7 @@ Test 1 will be in Week 4
   - Mon, Nov 3 by 11:59PM Pacific Time
   - HW 5
     <!-- :::{hw}
-    :text: HW5
+    :text: hw5.zip
     :url:
     :::  -->
 ```
