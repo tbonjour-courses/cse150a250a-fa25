@@ -23,7 +23,7 @@ We use several online platforms in this course. Please make sure you have access
 2. Please go through the [Syllabus](syllabus.md) and let us know if you have any questions on Piazza.
 3. **Access [Piazza](https://piazza.com/class/mfljwlgu7rc7o6)** – Course announcements and Q&A (auto-added if enrolled/waitlisted)
 4. **Access [Gradescope](https://www.gradescope.com/courses/1132306)** – Submit assignments here (auto-added if enrolled/waitlisted)
-5. Sign up for [Webclicker](https://webclicker.web.app/). The course registration code is `KSALDG`.
+5. Sign up for [Webclicker](https://webclicker.web.app/). The course registration code is `KSALDG`. Please make sure to accurately input your `PID` in `Student Identifier`, so you can get participation credit.
 6. **Enroll in PrairieLearn**
    - CSE 150A and CSE 250A: [Enrollment Link](https://us.prairielearn.com/pl/course_instance/196039)
 7. **Enroll in PrairieTest** for in-person assessments (ONLY ENROLL IN YOUR SECTION):
