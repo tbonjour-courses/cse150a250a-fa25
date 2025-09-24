@@ -86,7 +86,7 @@ We'll be using Gradescope for homework/project submission and grading. Most of t
 
 ### PrairieLearn and PrairieTest
 
-We will be using PrairieLearn and PrairieTest in this course for in person assesments. Please see {ref}`Tests` for more information about how to schedule your tests. 
+We will be using PrairieLearn and PrairieTest in this course for in person assesments. Please see {ref}`Tests` for more information about how to schedule your tests.
 
 <!-- 
 
@@ -150,6 +150,8 @@ There are two projects in this course:
 - Mini-Project (individual): An extended homework-style assignment that walks you through an end-to-end pipeline. The goal is to practice applying concepts on your own before moving to a larger team effort. Submission is individual on Gradescope.
 
 - Final Project (group): A deeper, open-ended assignment that serves as the take-home final for the class. You will form groups, select a dataset and problem of interest, and apply methods from the course. The project is due on Gradescope during the **official final exam window**. Full instructions and rubric will be released later in the quarter.
+
+Please note, there is no grace period for project submissions. We will not accept any late submissions for the projects.
 
 ### Participation
 
@@ -258,7 +260,7 @@ CSE 150A/250A is a rigorous but rewarding course. You will be challenged, but we
 
 ### Late or Missed Assignments/Missed Test Policy
 
-Tests must be taken at their scheduled time and may not be made up. Beyond the 24hr grace period, late homework will not be accepted. If you have a serious illness or an emergency, please talk to the instructor about it.
+Tests must be taken at their scheduled time and may not be made up. Beyond the 24hr grace period, late homework will not be accepted. There is no grace period for project submissions. If you have a serious illness or an emergency, please talk to the instructor about it.
 
 ### Outside Tutoring
 

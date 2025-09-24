@@ -15,7 +15,6 @@ downloads: []
 :class: staff-headshot
 :align: center
 :::
-I teach AI and machine learning courses and direct the Early Research Scholars Program (ERSP) at UCSD.
 <!-- Short description here: who you are, what do you like doing when not working, etc.  -->
 ::::
 :::::
