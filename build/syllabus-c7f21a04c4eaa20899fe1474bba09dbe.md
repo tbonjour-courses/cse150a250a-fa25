@@ -110,7 +110,7 @@ We will be using PrairieLearn and PrairieTest in this course for in person asses
 
 For in class questions, we’re going to use [webclicker.web.app](https://webclicker.web.app/). Please login using your UCSD Google Email address (‘Sign in with Google’) and register for this class using course registration code. If you don't have a *UCSD Google Email* (Global Exchange and UCEAP Students), you may use a personal Google account. Enter you PID (usually starting with A) in the Student Identifier field.
 
-The course registration code is `PMCOUS`. 
+The course registration code is `OHLKMA`. 
 
 <!-- :::{caution} -->
 Please make sure to accurately input your `PID` in `Student Identifier`, so you can get participation credit.
