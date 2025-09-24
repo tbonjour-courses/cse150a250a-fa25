@@ -168,11 +168,9 @@ Please note, there is no grace period for project submissions. We will not accep
 
 ### Participation
 
-### Participation
-
 This quarter, for getting instant feedback and measuring participation we will use in-class questions (using {ref}`Webclicker`) and surveys. These are graded for completion not correctness.
 
-**In-class questions:** Answer at least 50% of the questions asked throughout the quarter to earn full points for this component.
+**In-class questions:** You can miss up to two classes with no impact on your participation grade. Any participation points lost beyond that will be {ref}`redistributed <Redistribution>` to Test 2.
 
 **Surveys:** Complete required course surveys when assigned.
 
@@ -217,15 +215,29 @@ We will use the following grade breakdown:
 
 | Assesment | Percentage |
 |-------------|-------|
-|Homework | 40%
+|Homework | 40%|
 |Test 1| 15%|
-|Test 2| 15%|
+|Test 2| 15% (can increase to {ref}`20% <Redistribution>`)|
 |Mini-Project| 10%|
 |Final Project| 15%|
 |Participation| 5%|
 
+### Redistribution
 
-**Grading Scale**
+Participation makes up 5% of your final grade. However, any participation points you lose will add weight to Test 2. Here are example scenarios:
+
+**Scenario 1:** You answer 100% of participation questions.
+You get the full 5% for participation and Test 2 will be worth 15%.
+
+**Scenario 2:** You answer 50% of participation questions.  
+You'll keep 2.5% from participation and the remaining 2.5% will be transferred to Test 2. In this case, Test 2 would be worth 17.5% of your grade instead of 15%.
+
+**Scenario 3:** You don't answer any participation questions.
+Test 2 will be worth 20% of your final grade instead of 15%.
+
+This is designed to let you make up for any missed classes!
+
+### Grading Scale
 
 In a typical quarter, the make-up test serves the same role as a traditional grade curve, so no additional curve is applied. The standard grading scale above is the starting point, but after all scores are in a clustering algorithm will set the final cutoffs for each letter grade in each section (150A or 250A). These cutoffs can only **move down**, never up. For example, the A cutoff will never exceed 94%.
 
@@ -243,8 +255,6 @@ In a typical quarter, the make-up test serves the same role as a traditional gra
 | D            | ≥ 64% < 67%  |
 | D-           | ≥ 61% < 64%  |
 | F            | < 61%        |
-
-
 
 A+ grades have no fixed cutoff. Instead, they are awarded to the top 5% of students in each section based on overall course grade.
 
