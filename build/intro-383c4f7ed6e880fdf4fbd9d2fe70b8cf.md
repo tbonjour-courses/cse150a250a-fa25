@@ -40,12 +40,16 @@ We use several online platforms in this course. Please make sure you have access
 - **Announcements:** All course announcements will be posted on [Piazza](https://piazza.com/class/mfljwlgu7rc7o6).
 - **Homework Submission:** Submit assignments via [Gradescope](https://www.gradescope.com/courses/1132306).
 
-For any questions, please make a post on Piazza.
+:::{admonition} 💬 Course Communication
+:class: warning
+:icon: false
+**Please use Piazza for all course-related discussions.** Email may be missed, so Piazza is the best way to ensure timely responses - it is catered to getting you help fast and efficiently from classmates, the TAs, and the instructor. If you need to discuss something privately, you may post a private message to the instructors.
+:::
 
 :::{admonition} Welcome to Our Learning Community!
 :class: note
 :icon: false
-It's a big class - we need to work together! 
+It's a big class - we need to work together!
 
 We're all on this learning journey together. Supporting each other and staying engaged will help us create a positive and productive environment for everyone. Let's make this an enjoyable quarter!
 
