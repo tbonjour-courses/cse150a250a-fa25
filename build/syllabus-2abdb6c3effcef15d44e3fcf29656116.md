@@ -133,9 +133,17 @@ The two in-person, self-scheduled tests will happen in `Week 4` and `Week 8`.
 
 ### Homework Assignments
 
-There will be 6 homework assignments. These assignments include written work (proofs and mathematical exercises) and short programs. All assignments must be submitted via `Gradescope`. 
+There will be 6 homework assignments. These assignments include written work (proofs and mathematical exercises) and short programs.
 
 Homework assignments will be released on Tuesdays and will be due at **11:59 pm the following Monday**.
+
+**Submission Format:** All homework must be submitted as typed PDFs via `Gradescope`. You may use any word processing software (Microsoft Word, Google Docs, LaTeX, etc.). Diagrams may be hand-drawn and scanned, then included in your typed document.
+
+**LaTeX Resources:** We encourage learning LaTeX as it's widely used in AI/ML research. LaTeX templates for each assignment will be provided.
+
+- For beginners, we recommend [Overleaf](https://overleaf.com) - a cloud-based LaTeX editor that requires no installation.
+- This [open source LaTeX reference](https://en.wikibooks.org/wiki/LaTeX) can be helpful when getting started, and you can use the .tex source of all the files we use in class as templates.
+- [Detexify](https://detexify.kirelabs.org/) - draw a symbol and it will tell you the LaTeX command for it!
 
 **Late Day Policy**
 

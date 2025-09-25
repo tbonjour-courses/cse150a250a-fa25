@@ -3,6 +3,15 @@ title: Schedule
 downloads: []
 ---
 
+**Assessment Overview**
+
+| Assessment Type | Due When |
+|-----------------|----------|
+| 6 Homework Assignments | Mondays, Weeks 2-7 |
+| 2 Tests | Weeks 4 & 8 |
+| 1 Mini-Project | Mon, Nov 17, Week 8 |
+| 1 Final Project | Thu, Dec 11, at 5:59 PM PT <br> <sub>3 milestones due weekly on Mondays Weeks 8-10</sub>|
+
 :::{admonition}🗓️ Typical Week  
 :class: note
 :icon: false
@@ -24,7 +33,7 @@ downloads: []
 Topics and exact pacing are **tentative** and may shift as the quarter progresses.
 :::
 ## Week 0
-
+*Week of Sep 22*
 :::{admonition} 📖 Lectures
 :class: warning
 :icon: false
@@ -59,7 +68,7 @@ No assessments this week.
 :::
 
 ## Week 1
-
+*Week of Sep 29*
 :::{admonition} 📖 Lectures
 :icon: false
 :open:
@@ -120,7 +129,7 @@ No assessments this week.
 :::
 
 ## Week 2
-
+*Week of Oct 6*
 :::{admonition} 📖 Lectures
 :icon: false
 :open:
@@ -181,6 +190,7 @@ No assessments this week.
 :::
 
 ## Week 3
+*Week of Oct 13*
 
 :::{admonition} 📖 Lectures
 :icon: false
@@ -242,6 +252,8 @@ No assessments this week.
 :::
 
 ## Week 4
+*Week of Oct 20*
+
 :::{admonition} 🖥️ Test
 :icon: false
 :class: danger
@@ -307,6 +319,7 @@ Test 1 will be in Week 4
 :::
 
 ## Week 5
+*Week of Oct 27*
 
 :::{admonition} 📖 Lectures
 :icon: false
@@ -367,6 +380,7 @@ Test 1 will be in Week 4
 :::
 
 ## Week 6
+*Week of Nov 3*
 
 :::{admonition} 📖 Lectures
 :icon: false
@@ -436,6 +450,7 @@ Test 1 will be in Week 4
 :::
 
 ## Week 7
+*Week of Nov 10*
 
 :::{admonition} 📖 Lectures
 :icon: false
@@ -495,6 +510,8 @@ Test 1 will be in Week 4
 :::
 
 ## Week 8
+*Week of Nov 17*
+
 :::{admonition} 🖥️ Test
 :icon: false
 :class: danger
@@ -557,6 +574,7 @@ Test 2 will be in Week 8
 :::
 
 ## Week 9
+*Week of Nov 24*
 
 :::{admonition} 📖 Lectures
 :icon: false
@@ -604,6 +622,8 @@ Test 2 will be in Week 8
 :::
 
 ## Week 10
+*Week of Dec 1*
+
 :::{admonition} 🖥️ Test
 :icon: false
 :class: danger
@@ -665,6 +685,7 @@ Optional Make-up test in Week 10
 :::
 
 ## Finals Week
+*Week of Dec 8*
 
 <!-- :::{admonition} Final Exam Slot
 :class: warning
