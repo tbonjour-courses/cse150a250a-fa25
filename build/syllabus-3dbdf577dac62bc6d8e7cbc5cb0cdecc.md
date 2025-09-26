@@ -217,6 +217,10 @@ Under this policy, a poor performance on an earlier test can be erased by strong
 
 **Example:** If you scored 60% on Test 1 and 90% on Test 2, and then earn 85% on the make-up test, your Test 1 score is replaced with 85%.
 
+:::{note}
+Registration for make-up tests will open approximately one week before the beginning of the make-up testing window. Once the registration window opens for the retakes, if students have trouble finding a spot that works for them, they can email us at tritontesting@ucsd.edu.
+:::
+
 ## Grading
 
 We will use the following grade breakdown:
