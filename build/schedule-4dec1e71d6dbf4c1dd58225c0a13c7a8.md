@@ -91,7 +91,7 @@ No assessments this week.
     :url:
     ::: -->
   - Review of Probability contd...
-  - [Poole & Mackworth, CH 9] https://artint.info/3e/html/ArtInt3e.Ch9.html
+  - [Poole & Mackworth, CH 9](https://artint.info/3e/html/ArtInt3e.Ch9.html)
 * - Thu, Oct 2
   - Lecture 3
 
