@@ -82,11 +82,11 @@ No assessments this week.
 * - Tue, Sep 30
   - Lecture 2
 
-    <!-- :::{slides}
-    :text: pdf
-    :url:
-    :::
     :::{slides}
+    :text: pdf
+    :url: lectures/Lecture 02.pdf
+    :::
+    <!-- :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
