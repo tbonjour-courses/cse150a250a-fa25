@@ -125,6 +125,13 @@ No assessments this week.
     :text: HW 1
     :url: hws/hw1.zip
     :::
+* - Thu, Oct 2
+  - Discussion pertaining to HW 1 ([Video recording](https://ucsd.zoom.us/rec/share/EFMUCeQvGjLJIhQmyG_sw4U6-rdrk1EgSI3Pb6ZqMt95rfYLfvEMj358Cr93lqst.Di39Kvk1ZkWxrWqT))
+  -
+    :::{slides}
+    :text: Discussion 1
+    :url: discussions/discussion_w1.pdf
+    :::
 ```
 :::
 
