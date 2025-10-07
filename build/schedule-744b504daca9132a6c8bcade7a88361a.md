@@ -187,12 +187,11 @@ No assessments this week.
   - Assignment
 * - Tue, Oct 7
   - Mon, Oct 13 by 11:59PM Pacific Time
-  - HW 2
-    
-    <!-- :::{hw}
-    :text: hw2.zip
-    :url:
-    :::  -->
+  -
+    :::{hw}
+    :text: HW 2
+    :url: hws/hw2.zip
+    :::
 ```
 :::
 
