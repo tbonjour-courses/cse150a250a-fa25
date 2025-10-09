@@ -149,30 +149,34 @@ No assessments this week.
   - Optional Resources
 * - Tue, Oct 7
   - Lecture 4
+
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 04.pdf
     :::
-    <!-- 
+    :::{slides}
+    :text: d-sep notes
+    :url:lectures/Lecture 04 - D-sep Notes.pdf
+    :::
     :::{slides}
     :text: annotated pdf
-    :url:
-    ::: -->
+    :url:lectures/Lecture_04_post.pdf
+    :::
   - Conditional independence, D-Separation
-  -
+  - Poole and Mackworth [11.1.2](https://artint.info/3e/html/ArtInt3e.Ch11.S1.html#SS2.p1), [Pearl](https://bayes.cs.ucla.edu/BOOK-2K/d-sep.html), [Scheines](https://www.andrew.cmu.edu/user/scheines/tutor/d-sep.html), <br> 📹 D-sep Examples: [Video 1](https://youtu.be/yDs_q6jKHb0?si=txXsZgMqyw_ZfHQ5), [Video 2](https://www.youtube.com/watch?v=3Ja99AGWxoE)
 * - Thu, Oct 9
   - Lecture 5
 
-    <!-- :::{slides}
-    :text: pdf
-    :url:
-    :::
     :::{slides}
+    :text: pdf
+    :url: lectures/Lecture 05.pdf
+    :::
+    <!-- :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
   - Exact Inference - Variable Elimination
-  -
+  - Poole and Mackworth [9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), <br> Murphy - PML: Advanced Topics, [Ch9.5](https://probml.github.io/pml-book/book2.html), <br> Russell & Norvig AIMA, [Ch 13.3](https://aima.cs.berkeley.edu/contents.html)
 ```
 :::
 
