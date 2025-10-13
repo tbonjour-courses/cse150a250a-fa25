@@ -257,7 +257,7 @@ No assessments this week.
 * - Released
   - Due
   - Assignment
-* - Tue, Oct 14
+* - Mon, Oct 13
   - Mon, Oct 20 by 11:59PM Pacific Time
   -
     :::{hw}
