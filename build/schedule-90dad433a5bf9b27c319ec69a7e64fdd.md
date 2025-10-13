@@ -171,10 +171,10 @@ No assessments this week.
     :text: pdf
     :url: lectures/Lecture 05.pdf
     :::
-    <!-- :::{slides}
+    :::{slides}
     :text: annotated pdf
-    :url:
-    ::: -->
+    :url: lectures/Lecture_05_post.pdf
+    :::
   - Exact Inference - Variable Elimination
   - Poole and Mackworth [9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), <br> Murphy - PML: Advanced Topics, [Ch9.5](https://probml.github.io/pml-book/book2.html), <br> Russell & Norvig AIMA, [Ch 13.3](https://aima.cs.berkeley.edu/contents.html)
 ```
