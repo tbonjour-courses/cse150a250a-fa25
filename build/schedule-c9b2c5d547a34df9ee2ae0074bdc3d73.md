@@ -222,16 +222,17 @@ No assessments this week.
 * - Tue, Oct 14
   - Lecture 6
 
-    <!-- :::{slides}
+    :::{slides}
     :text: pdf
-    :url:
+    :url: lectures/Lecture 06.pdf
     :::
+    <!-- 
     :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
   - Approximate Inference - Rejection Sampling, Likelihood Weighting
-  -
+  - Poole and Mackworth [9.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1)
 * - Thu, Oct 16
   - Lecture 7
 
@@ -244,7 +245,7 @@ No assessments this week.
     :url:
     ::: -->
   - Approximate Inference - MCMC
-  -
+  - - Poole and Mackworth [9.7.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1:~:text=9.7.7%20Markov%20Chain%20Monte%20Carlo)
 ```
 :::
 
