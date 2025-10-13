@@ -176,7 +176,7 @@ No assessments this week.
     :url: lectures/Lecture_05_post.pdf
     :::
   - Exact Inference - Variable Elimination
-  - Poole and Mackworth [9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), <br> Murphy - PML: Advanced Topics, [Ch9.5](https://probml.github.io/pml-book/book2.html), <br> Russell & Norvig AIMA, [Ch 13.3](https://aima.cs.berkeley.edu/contents.html)
+  - Poole and Mackworth [9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), <br> Murphy - PML: Advanced Topics, [Ch9.5](https://probml.github.io/pml-book/book2.html), <br> Russell & Norvig AIMA, [Ch 13.3](https://aima.cs.berkeley.edu/contents.html) <br> 📹 VE Examples: [Video](https://youtu.be/FDNB0A61PGE?si=gLWRNkkpHLh8Ndr1)
 ```
 :::
 
@@ -232,7 +232,7 @@ No assessments this week.
     :url:
     ::: -->
   - Approximate Inference - Rejection Sampling, Likelihood Weighting
-  - Poole and Mackworth [9.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1)
+  - Poole and Mackworth [9.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1) <br> 📹 [Sampling](https://youtu.be/ol0l6aTfb_g?si=aINqQOUVUVdH8HNP)
 * - Thu, Oct 16
   - Lecture 7
 
@@ -245,7 +245,7 @@ No assessments this week.
     :url:
     ::: -->
   - Approximate Inference - MCMC
-  - - Poole and Mackworth [9.7.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1:~:text=9.7.7%20Markov%20Chain%20Monte%20Carlo)
+  - Poole and Mackworth [9.7.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1:~:text=9.7.7%20Markov%20Chain%20Monte%20Carlo) <br> 📹 [Gibbs Example](https://youtu.be/a1z3iFvhmsw?si=5gSAsJkWo-hO0Qyj)
 ```
 :::
 
