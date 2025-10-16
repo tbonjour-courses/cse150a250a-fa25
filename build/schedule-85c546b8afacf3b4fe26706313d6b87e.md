@@ -226,26 +226,25 @@ No assessments this week.
     :text: pdf
     :url: lectures/Lecture 06.pdf
     :::
-    <!-- 
     :::{slides}
     :text: annotated pdf
-    :url:
-    ::: -->
+    :url: lectures/Lecture_06_post.pdf
+    :::
   - Approximate Inference - Rejection Sampling, Likelihood Weighting
   - Poole and Mackworth [9.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1) <br> 📹 [Sampling](https://youtu.be/ol0l6aTfb_g?si=aINqQOUVUVdH8HNP)
 * - Thu, Oct 16
   - Lecture 7
 
-    <!-- :::{slides}
-    :text: pdf
-    :url:
-    :::
     :::{slides}
+    :text: pdf
+    :url: lectures/Lecture 07.pdf
+    :::
+    <!-- :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
   - Approximate Inference - MCMC
-  - Poole and Mackworth [9.7.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1:~:text=9.7.7%20Markov%20Chain%20Monte%20Carlo) <br> 📹 [Gibbs Example](https://youtu.be/a1z3iFvhmsw?si=5gSAsJkWo-hO0Qyj)
+  - Poole and Mackworth [9.7.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1:~:text=9.7.7%20Markov%20Chain%20Monte%20Carlo) [9.6.1](https://artint.info/3e/html/ArtInt3e.Ch9.S6.html#:~:text=for%20understanding%20language.-,9.6.1%20Markov%20Chains,-A%20Markov%20chain) <br> 📹 [Gibbs Example](https://youtu.be/a1z3iFvhmsw?si=5gSAsJkWo-hO0Qyj)
 ```
 :::
 
