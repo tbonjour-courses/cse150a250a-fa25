@@ -296,11 +296,11 @@ Test 1 will be in Week 4
 * - Tue, Oct 21
   - Lecture 8
 
-    <!-- :::{slides}
-    :text: pdf
-    :url:
-    :::
     :::{slides}
+    :text: pdf
+    :url: lectures/Lecture 08.pdf
+    :::
+    <!-- :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
