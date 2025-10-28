@@ -402,11 +402,11 @@ Test 1 will be in Week 4
   - Assignment
 * - Tue, Oct 28
   - Mon, Nov 3 by 11:59PM Pacific Time
-  - HW 5
-    <!-- :::{hw}
-    :text: hw5.zip
-    :url:
-    :::  -->
+  -
+    :::{hw}
+    :text: HW 5
+    :url: hws/hw5.zip
+    :::
 ```
 :::
 
