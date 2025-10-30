@@ -377,11 +377,11 @@ Test 1 will be in Week 4
 * - Thu, Oct 30
   - Lecture 11
 
-    <!-- :::{slides}
-    :text: pdf
-    :url:
-    :::
     :::{slides}
+    :text: pdf
+    :url: lectures/Lecture 11.pdf
+    :::
+    <!-- :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
