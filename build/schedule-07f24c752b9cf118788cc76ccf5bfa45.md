@@ -406,6 +406,9 @@ Test 1 will be in Week 4
     :text: HW 5
     :url: hws/hw5.zip
     :::
+* - Thu, Oct 30
+  - Discussion pertaining to HW 5 ([Video recording](https://ucsd.zoom.us/rec/share/OyiA0xvGcSeScvJNM2ujhZX-A-XNLwXWNwGnR3TLUGViRCUTB6o_iiC_hY0k51A.KJAHyolDb1UYqOnI), Passcode: Qh%2TRD8)
+  -
 ```
 :::
 
