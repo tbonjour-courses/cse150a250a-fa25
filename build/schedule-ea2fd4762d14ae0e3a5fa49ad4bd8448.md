@@ -410,8 +410,8 @@ Test 1 will be in Week 4
   - Discussion pertaining to HW 5 ([Video recording](https://ucsd.zoom.us/rec/share/OyiA0xvGcSeScvJNM2ujhZX-A-XNLwXWNwGnR3TLUGViRCUTB6o_iiC_hY0k51A.KJAHyolDb1UYqOnI), Passcode: Qh%2TRD8)
   -
 * - Fri, Oct 31
-  -
   - Final Project Guidelines
+  -
     :::{slides}
     :text: pdf
     :url: hws/CSE_150A_250A_Final_Project_Guidelines.pdf
