@@ -479,12 +479,11 @@ Test 1 will be in Week 4
     :::
 * - Tue, Nov 4
   - Mon, Nov 17 by 11:59PM Pacific Time
-  - Mini-Project
-
-    <!-- :::{hw}
-    :text: mini_project.zip
-    :url:
-    :::  -->
+  -
+    :::{hw}
+    :text: Mini-Project
+    :url: hws/MiniProject.zip
+    :::
 ```
 :::
 
