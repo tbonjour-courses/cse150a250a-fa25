@@ -381,10 +381,10 @@ Test 1 will be in Week 4
     :text: pdf
     :url: lectures/Lecture 11.pdf
     :::
-    <!-- :::{slides}
+    :::{slides}
     :text: annotated pdf
-    :url:
-    ::: -->
+    :url: lectures/Lecture 11 - post.pdf
+    :::
   - Hidden Markov Models (HMMs), Forward
   - Jurafsky & Martin - [Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 ```
