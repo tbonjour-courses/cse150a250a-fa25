@@ -574,21 +574,21 @@ Test 2 will be in Week 8
     :text: pdf
     :url: lectures/Lecture 15.pdf
     :::
-    <!-- :::{slides}
+    :::{slides}
     :text: annotated pdf
-    :url:
-    ::: -->
+    :url: lectures/Lecture 15 - post.pdf
+    :::
   - Value Functions, Policy Evaluation, Improvement
   - Ch4 [Sutton & Barto, 2018](http://incompleteideas.net/book/the-book-2nd.html)
 
 * - Thu, Nov 20
   - Lecture 16
 
-    <!-- :::{slides}
-    :text: pdf
-    :url:
-    :::
     :::{slides}
+    :text: pdf
+    :url: lectures/Lecture 16.pdf
+    :::
+    <!-- :::{slides}
     :text: annotated pdf
     :url:
     ::: -->
