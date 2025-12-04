@@ -1,0 +1,1 @@
+import{W as s}from"/cse150a250a-fa25/build/_shared/chunk-JU57NILB.js";import{b as n,j as e}from"/cse150a250a-fa25/build/_shared/chunk-7DW7L33J.js";var a=n(t=>{let{securityLevel:c}=s(),o=e("body");if(c==="sandbox"){let m=e(`#i${t}`).node()?.contentDocument??document;o=e(m.body)}return o.select(`#${t}`)},"selectSvgElement");export{a};

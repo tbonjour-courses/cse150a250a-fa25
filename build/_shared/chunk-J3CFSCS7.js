@@ -1,0 +1,1 @@
+import{b as t}from"/cse150a250a-fa25/build/_shared/chunk-7DW7L33J.js";var s=class{constructor(i){this.init=i,this.records=this.init()}static{t(this,"ImperativeState")}reset(){this.records=this.init()}};export{s as a};
